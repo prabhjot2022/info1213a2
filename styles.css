@@ -1,0 +1,65 @@
+body{
+  background-color: #d9ecf2;
+  margin: 0;
+  font-family: serif; /* for styling the font*/
+    }
+/* class- selectors */
+.image{
+  position: relative;
+  left: 20px;
+  border-radius: 100%;
+  width: 300px;
+  height: 300px;
+}
+
+.availaible{
+  background-color: #1aa6b7;
+  width: 30px;
+
+}
+.unavailaible{
+  background-color: #f56a79;
+  width: 30px;
+
+}
+
+.heading{
+ background-color: #1aa6b7;
+ text-align: center;
+
+}
+
+.col-lg-4{
+font-size: 30px;
+}
+
+
+.col-lg-6{
+font-size: 30px;
+}
+
+.link-c{
+  font-size: 30px;
+}
+
+.form-grp{
+  text-align: center;
+  color:#1aa6b7;
+}
+.carousel-item{
+  border-radius: 100%;
+  width: 1300px;
+  height: 400px;
+
+}
+
+#id-1{
+  font-style: oblique;
+  color: #1aa6b7;
+  font-size: 40px;
+}
+
+table div{
+  margin-left:210px;
+
+}
